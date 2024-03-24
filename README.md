@@ -10,7 +10,8 @@ This is a simple memory game where you need to match pairs of cards with the sam
 
 ## Demo
 
-You can play the game [here]([link_to_your_live_demo](https://memory-game-omega-tawny.vercel.app/)).
+You can play the game [here](https://memory-game-omega-tawny.vercel.app/).
+
 
 ## Screenshots
 
