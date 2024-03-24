@@ -14,7 +14,8 @@ You can play the game [here](link_to_your_live_demo).
 
 ## Screenshots
 
-![Gameplay screenshot](screenshot.png)
+![image](https://github.com/Pawan8433/Memory-Game/assets/106168429/b8a68c96-a81f-4f7f-9419-944255dcf59d)
+
 
 ## Technologies Used
 
